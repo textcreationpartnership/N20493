@@ -117,15 +117,16 @@
    <text xml:lang="eng">
       <front>
          <div type="title_page">
-            <pb facs="tcp:026880_0000_0FD2456D58A81A70"/>
-            <pb facs="tcp:026880_0001_0FD24571987A9618" rendition="simple:additions"/>
+            <pb facs="unknown:026880_0000_0FD2456D58A81A70"/>
+            <pb facs="unknown:026880_0001_0FD24571987A9618"
+                rendition="simple:additions"/>
             <p>THE QUAKER; A COMIC OPERA. IN TWO ACTS. AS <hi>PERFORMED</hi> AT THE <hi>Theatre in Boſton.</hi>
             </p>
             <p>
                <hi>BOSTON:</hi> PRINTED BY P. EDES AND S. ETHERIDGE, FOR WILLIAM P. BLAKE, No. 59, CORNHILL, AND WILLIAM T. CLAP, No. 90, NEWBURY-STREET. 1794.</p>
          </div>
          <div type="dramatis_personae">
-            <pb facs="tcp:026880_0002_0FD24574C9AA8878"/>
+            <pb facs="unknown:026880_0002_0FD24574C9AA8878"/>
             <head>DRAMATIS PERSONAE.</head>
             <list>
                <head>MEN.</head>
@@ -153,7 +154,7 @@
       </front>
       <body>
          <div type="play">
-            <pb facs="tcp:026880_0003_0FD245770F4A3EE0"/>
+            <pb facs="unknown:026880_0003_0FD245770F4A3EE0"/>
             <head>THE QUAKER.</head>
             <div n="1" type="act">
                <head>ACT I.</head>
@@ -196,7 +197,7 @@
                      <l>Why, what's the matter? Why d'ye frown?</l>
                   </sp>
                   <sp>
-                     <pb n="4" facs="tcp:026880_0004_0FD2457712B79870"/>
+                     <pb n="4" facs="unknown:026880_0004_0FD2457712B79870"/>
                      <speaker>CICELY.</speaker>
                      <l>You ſhall know all, when I come down,</l>
                   </sp>
@@ -254,7 +255,7 @@
                   <sp>
                      <speaker>LUBIN.</speaker>
                      <p>You don't! Why then may happen my name 'en't Lu<g ref="char:EOLhyphen"/>bin Blackthorn, and 'tis likely I did not ſet out ſix month ago to ſee my father down in the weſt, and aſk his con<g ref="char:EOLhyphen"/>ſent to my marriage with your danghter Gillian; and I warrant you I did not ſtay till my father died, to take
-<pb n="5" facs="tcp:026880_0005_0FD245788EB578F0"/>poſſeſſion of his farm and every thing that belonged to him: nay, you'll want to make me believe preſently that I 'en't come now to ſettle affairs, and take her back into the country with me.</p>
+<pb n="5" facs="unknown:026880_0005_0FD245788EB578F0"/>poſſeſſion of his farm and every thing that belonged to him: nay, you'll want to make me believe preſently that I 'en't come now to ſettle affairs, and take her back into the country with me.</p>
                   </sp>
                   <sp>
                      <speaker>CICELY.</speaker>
@@ -311,7 +312,7 @@
                   <stage>Exit.</stage>
                </div>
                <div n="2" type="scene">
-                  <pb n="6" facs="tcp:026880_0006_0FD2457AE3038FE0"/>
+                  <pb n="6" facs="unknown:026880_0006_0FD2457AE3038FE0"/>
                   <head>SCENE II.</head>
                   <sp>
                      <speaker>LUBIN.</speaker>
@@ -362,7 +363,7 @@
                   <sp>
                      <speaker>LUBIN.</speaker>
                      <p>And ſo you have broke your word, and all for the
-<pb n="7" facs="tcp:026880_0007_0FD2457D2EDCCBB0"/>lucre of gain. And pray, now, don't you expect to be hooted out of the village?</p>
+<pb n="7" facs="unknown:026880_0007_0FD2457D2EDCCBB0"/>lucre of gain. And pray, now, don't you expect to be hooted out of the village?</p>
                   </sp>
                   <sp>
                      <speaker>EASY.</speaker>
@@ -437,7 +438,7 @@
                      <p>She is, indeed! for when I ſaw her laſt, ſhe told me that all the riches in the world ſhould never make her forget me.</p>
                   </sp>
                   <sp>
-                     <pb n="8" facs="tcp:026880_0008_0FD2457FBB21F468"/>
+                     <pb n="8" facs="unknown:026880_0008_0FD2457FBB21F468"/>
                      <speaker>EASY.</speaker>
                      <p>But ſince ſhe has changed her mind; and it ſo falls out, that to-morrow is May-day, you would do well to ſtudy ſome ingenious thing, and get this portion for a more de<g ref="char:EOLhyphen"/>ſerving damſel.</p>
                   </sp>
@@ -486,7 +487,7 @@
                   </sp>
                </div>
                <div n="5" type="scene">
-                  <pb n="9" facs="tcp:026880_0009_0FD24581DC885240"/>
+                  <pb n="9" facs="unknown:026880_0009_0FD24581DC885240"/>
                   <head>SCENE V.</head>
                   <stage>A Room in the Quaker's Houſe, with Glaſs Doors in the Back.</stage>
                   <stage>Enter Floretta and Gillian.</stage>
@@ -530,7 +531,7 @@
                      <speaker>GILLIAN.</speaker>
                      <p>I've tried a thouſand ways.</p>
                      <stage>
-                        <pb n="10" facs="tcp:026880_0010_0FD245839588A260"/>
+                        <pb n="10" facs="unknown:026880_0010_0FD245839588A260"/>
 AIR.</stage>
                      <lg n="1">
                         <head>I.</head>
@@ -583,7 +584,7 @@ AIR.</stage>
                      <p>No? Why do not thy approaching nuptials lift up, and as it were exhilarate thee?</p>
                   </sp>
                   <sp>
-                     <pb n="11" facs="tcp:026880_0011_0FD245858F2067F0"/>
+                     <pb n="11" facs="unknown:026880_0011_0FD245858F2067F0"/>
                      <speaker>FLORETTA.</speaker>
                      <p>Lord, Sir! there's no perſuading her, nothing will get this Lubin out of her head.</p>
                   </sp>
@@ -628,7 +629,7 @@ AIR.</stage>
                      <p>Ah! you'll never ſee that day, ſo you had better take to trouble about it.</p>
                   </sp>
                   <sp>
-                     <pb n="12" facs="tcp:026880_0012_0FD24586D1F6C528"/>
+                     <pb n="12" facs="unknown:026880_0012_0FD24586D1F6C528"/>
                      <speaker>STEADY.</speaker>
                      <p>Thou art miſtaken, and when thou beholdeſt the gam<g ref="char:EOLhyphen"/>bols to-morrow on the green—</p>
                   </sp>
@@ -686,7 +687,7 @@ AIR.</stage>
                      <p>Well then, I own I do think ſo; and if you'll promiſe not to betray me, I'll ſtand your friend in this affair.</p>
                   </sp>
                   <sp>
-                     <pb n="13" facs="tcp:026880_0013_0FD2458E681B5968"/>
+                     <pb n="13" facs="unknown:026880_0013_0FD2458E681B5968"/>
                      <speaker>GILLIAN.</speaker>
                      <p>Will you? Oh la! And what muſt be done, Floretta?</p>
                   </sp>
@@ -739,7 +740,7 @@ AIR.</stage>
                      <p>Talks juſt as you do now. But will you do a little fav<g ref="char:EOLhyphen"/>our I have to beg of you?</p>
                   </sp>
                   <sp>
-                     <pb n="14" facs="tcp:026880_0014_0FD24590EEA7BDA8"/>
+                     <pb n="14" facs="unknown:026880_0014_0FD24590EEA7BDA8"/>
                      <speaker>SOLOMON.</speaker>
                      <p>Slaves obey the will of them who command them.</p>
                   </sp>
@@ -808,7 +809,7 @@ AIR.</stage>
                      <p>An egg to day is better than a chicken to-morrow.</p>
                   </sp>
                   <sp>
-                     <pb n="15" facs="tcp:026880_0015_0FD2459519B78EA0"/>
+                     <pb n="15" facs="unknown:026880_0015_0FD2459519B78EA0"/>
                      <speaker>FLORETTA.</speaker>
                      <p>Pray now go.</p>
                   </sp>
@@ -852,7 +853,7 @@ AIR.</stage>
                      <speaker>GILLIAN.</speaker>
                      <p>I wonder what they plague us poor girls ſo for? Fathers and mothers in this caſe are comical folks; they are forever telling one what they'll do to pleaſe one; and yet, when they take it into their heads, they make nothing of deſir<g ref="char:EOLhyphen"/>ing us to be miſerable as long as one lives. I wiſh I could be dutiful and happy too. May be Floretta will bring matters about for me to marry Lubin with their conſent; if ſhe does, lord, how I ſhall love her!</p>
                      <stage>
-                        <pb n="16" facs="tcp:026880_0016_0FD2459687B66D20"/>
+                        <pb n="16" facs="unknown:026880_0016_0FD2459687B66D20"/>
 AIR.</stage>
                      <l>The captive linnet newly taken,</l>
                      <l>Vainly ſtrives and vents its rage;</l>
@@ -896,7 +897,7 @@ AIR.</stage>
                      <p>The truth is not to be ſpoken at all times. Into the village about a little buſineſs for Mrs. Floretta.</p>
                   </sp>
                   <sp>
-                     <pb n="17" facs="tcp:026880_0017_0FD2459807AD31D8"/>
+                     <pb n="17" facs="unknown:026880_0017_0FD2459807AD31D8"/>
                      <speaker>STEADY.</speaker>
                      <p>Verily, I do ſuſpect thee to be in a plot againſt me. I will not have thee therefore do this buſineſs: ſtay here by me.</p>
                   </sp>
@@ -964,7 +965,7 @@ AIR.</stage>
                      <l>—Doſt thou notice me?</l>
                   </sp>
                   <sp>
-                     <pb n="18" facs="tcp:026880_0018_0FD245A253FD1C78"/>
+                     <pb n="18" facs="unknown:026880_0018_0FD245A253FD1C78"/>
                      <speaker>SOLOMON.</speaker>
                      <l>—Yea.</l>
                      <stage>[Here as often as Solomon tries to ſpeak to Floretta and Gillian, he is prevented by Steady.]</stage>
@@ -1041,7 +1042,7 @@ AIR.</stage>
                      <l>Here, Solomon!</l>
                   </sp>
                   <sp>
-                     <pb n="19" facs="tcp:026880_0019_0FD245A64EB4FFD8"/>
+                     <pb n="19" facs="unknown:026880_0019_0FD245A64EB4FFD8"/>
                      <speaker>STEADY.</speaker>
                      <l>—Go where I told thee—</l>
                   </sp>
@@ -1099,7 +1100,7 @@ AIR.</stage>
                </div>
             </div>
             <div n="2" type="act">
-               <pb n="20" facs="tcp:026880_0020_0FD245A651DAADC0"/>
+               <pb n="20" facs="unknown:026880_0020_0FD245A651DAADC0"/>
                <head>ACT II.</head>
                <div n="1" type="scene">
                   <head>SCENE I.</head>
@@ -1147,7 +1148,7 @@ AIR.</stage>
                      <p>That I firmly believe.</p>
                   </sp>
                   <stage>
-                     <pb n="21" facs="tcp:026880_0021_0FD245A836F10C58"/>
+                     <pb n="21" facs="unknown:026880_0021_0FD245A836F10C58"/>
 DUET.</stage>
                   <sp>
                      <speaker>FLORETTA</speaker>
@@ -1220,7 +1221,7 @@ DUET.</stage>
                   </sp>
                </div>
                <div n="2" type="scene">
-                  <pb n="22" facs="tcp:026880_0022_0FD245A96BE3F258"/>
+                  <pb n="22" facs="unknown:026880_0022_0FD245A96BE3F258"/>
                   <head>SCENE II.</head>
                   <stage>Enter Gillian.</stage>
                   <sp>
@@ -1269,7 +1270,7 @@ DUET.</stage>
                      <p>In the great hall waiting your approach.</p>
                   </sp>
                   <sp>
-                     <pb n="23" facs="tcp:026880_0023_0FD245AAD9990638"/>
+                     <pb n="23" facs="unknown:026880_0023_0FD245AAD9990638"/>
                      <speaker>GILLIAN.</speaker>
                      <p>In am very much obliged to you, Mr. Solomon.</p>
                   </sp>
@@ -1338,7 +1339,7 @@ DUET.</stage>
                      <p>Have you any deſire to marry me?</p>
                   </sp>
                   <sp>
-                     <pb n="24" facs="tcp:026880_0024_0FD245AC45A57AF8"/>
+                     <pb n="24" facs="unknown:026880_0024_0FD245AC45A57AF8"/>
                      <speaker>SOLOMON.</speaker>
                      <p>Aſk the vintner if the wine be good.</p>
                   </sp>
@@ -1391,7 +1392,7 @@ DUET.</stage>
                      <speaker>FLORETTA.</speaker>
                      <p>And yet they are ſools to be uſed ſo by us. But I am ſure you will never uſe Lubin ill—he will make you the happieſt girl in the world.</p>
                      <stage>
-                        <pb n="25" facs="tcp:026880_0025_0FD245AFE3FF8F98"/>
+                        <pb n="25" facs="unknown:026880_0025_0FD245AFE3FF8F98"/>
 AIR.</stage>
                      <lg n="1">
                         <head>I.</head>
@@ -1454,7 +1455,7 @@ AIR.</stage>
                      <p>Has the old hanks, thou ſpeakeſt of, the conſent of her friends?</p>
                   </sp>
                   <sp>
-                     <pb n="26" facs="tcp:026880_0026_0FD245B18EA08D78"/>
+                     <pb n="26" facs="unknown:026880_0026_0FD245B18EA08D78"/>
                      <speaker>LUBIN.</speaker>
                      <p>They have no conſent to give, and pleaſe you.</p>
                   </sp>
@@ -1504,7 +1505,7 @@ AIR.</stage>
                      <p>And fear not to tell him thy mind.</p>
                   </sp>
                   <sp>
-                     <pb n="27" facs="tcp:026880_0027_0FD22AE1910B24D8"/>
+                     <pb n="27" facs="unknown:026880_0027_0FD22AE1910B24D8"/>
                      <speaker>LUBIN.</speaker>
                      <p>I ſhan't be ſparing of that, I warrant you.</p>
                   </sp>
@@ -1565,7 +1566,7 @@ AIR.</stage>
                   <sp>
                      <speaker>STEADY.</speaker>
                      <p>I doubt it not—And when thou ſeeſt thyſelf the queen
-<pb n="28" facs="tcp:026880_0028_0FD245C6202C9668"/>of ſuch a ſet of happy mortals, I know thou wilt conſent that this ſhall be thy bridal day.</p>
+<pb n="28" facs="unknown:026880_0028_0FD245C6202C9668"/>of ſuch a ſet of happy mortals, I know thou wilt conſent that this ſhall be thy bridal day.</p>
                   </sp>
                   <sp>
                      <speaker>FLORETTA.</speaker>
@@ -1622,7 +1623,7 @@ AIR.</stage>
                      <p>I don't know what to make of it myſelf; but however, if the word comes to the worſt, you muſt down rightgive them the ſlip, and run away.</p>
                   </sp>
                   <sp>
-                     <pb n="29" facs="tcp:026880_0029_0FD245C92E56ABC0"/>
+                     <pb n="29" facs="unknown:026880_0029_0FD245C92E56ABC0"/>
                      <speaker>GILLIAN.</speaker>
                      <p>I'cod and ſo I will! Lubin has got enough for us both.</p>
                   </sp>
@@ -1669,7 +1670,7 @@ AIR.</stage>
                   <sp>
                      <speaker>STEADY.</speaker>
                      <p>Friends and neighbours, it hath been my ſtudy ſince I firſt came among you, to do whatever might procure me your love and eſteem. I have inſtituted a cuſtom, the ſalutary ef<g ref="char:EOLhyphen"/>fects of which I view with great gladneſs; and each is well entitled to the reward he has received. I will now propoſe to you a queſtion, to ſee which of you can make
-<pb n="30" facs="tcp:026880_0030_0FD245CA481D6868"/>the moſt ready reply. What of all things in the world is the longeſt and the ſhorteſt, the ſwifteſt and the ſloweſt, the moſt precious, the moſt neglected, and without which nothing can be done?</p>
+<pb n="30" facs="unknown:026880_0030_0FD245CA481D6868"/>the moſt ready reply. What of all things in the world is the longeſt and the ſhorteſt, the ſwifteſt and the ſloweſt, the moſt precious, the moſt neglected, and without which nothing can be done?</p>
                   </sp>
                   <sp>
                      <speaker>FIRST COUNTRYMAN.</speaker>
@@ -1710,7 +1711,7 @@ AIR.</stage>
                      <p>This is addreſſed unto me! Let me view the contents —How! my own hand!—Thou expecteſt, I find, to re<g ref="char:EOLhyphen"/>ceive this damſel for thy wife; and thy plot, which thou didſt ſo artfully carry on, was contrived to make my neighbours laugh at me.</p>
                   </sp>
                   <sp>
-                     <pb n="31" facs="tcp:026880_0031_0FD245CBE26242E8"/>
+                     <pb n="31" facs="unknown:026880_0031_0FD245CBE26242E8"/>
                      <speaker>LUBIN.</speaker>
                      <p>No, with reſpect to your Worſhip, 'twas to keep them from laughing at you.</p>
                   </sp>
@@ -1770,7 +1771,7 @@ AIR.</stage>
                      <p>I never could abide you before, but now I ſhall love you as long as I live</p>
                   </sp>
                   <sp>
-                     <pb n="32" facs="tcp:026880_0032_0FD245CD4C62BB08"/>
+                     <pb n="32" facs="unknown:026880_0032_0FD245CD4C62BB08"/>
                      <speaker>STEADY.</speaker>
                      <p>Verily, my heart warmeth unto you both: your inno<g ref="char:EOLhyphen"/>cency and love are equally reſpectable. And would the voluptuous man taſte a more exquiſite ſenſation than the gratifying his paſſions, let him prevail upon himſelf to a benevolent action.</p>
                   </sp>
